@@ -56,8 +56,8 @@ To run the project locally, the following steps should be followed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ISHARA.git
-cd ISHARA
+git clone https://github.com/anuanced/Ishara_ASL_Learning_Website.git
+cd Ishara
 ```
 
 ### Step 2: Install Dependencies
