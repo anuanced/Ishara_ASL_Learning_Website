@@ -108,3 +108,10 @@ Possible enhancements to the system include:
 ## 10. Conclusion
 
 ISHARA demonstrates how web technologies can be effectively used to develop accessible educational tools. The project highlights the importance of inclusive design and serves as a foundation for more advanced sign language learning systems incorporating intelligent recognition and adaptive learning features.
+
+## 11. Author
+
+**Anusha Thosar**
+* Undergraduate Student
+* Field of Study: Electronics and Computer Engineering
+* This project was developed as part of academic coursework and independent learning, with an emphasis on accessible web design and introductory sign language education.
